@@ -11,6 +11,14 @@
      - Submarineering.EVEN BETTER PUBLIC SCORE until now.([링크](https://www.kaggle.com/submarineering/submarineering-even-better-public-score-until-now))
      - Keras+TF LB 0.18([링크](https://www.kaggle.com/wvadim/keras-tf-lb-0-18))
 
+3. 09.02
+   - Competiton
+     - TensorFlow Speech Recognition Challenge([링크](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge))
+   - Clone Coding
+     - [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
+     - [Light-Weight CNN LB 0.74](https://www.kaggle.com/alphasis/light-weight-cnn-lb-0-74)
+     - [WavCeption V1: a 1-D Inception approach (LB 0.76)](https://www.kaggle.com/ivallesp/wavception-v1-a-1-d-inception-approach-lb-0-76)
+
 ---
 
 ### 커리큘럼
