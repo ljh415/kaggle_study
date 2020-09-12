@@ -19,6 +19,13 @@
      - [Light-Weight CNN LB 0.74](https://www.kaggle.com/alphasis/light-weight-cnn-lb-0-74)
      - [WavCeption V1: a 1-D Inception approach (LB 0.76)](https://www.kaggle.com/ivallesp/wavception-v1-a-1-d-inception-approach-lb-0-76)
 
+4. 09.09
+   - Competition
+     - [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification)
+   - Code
+     - tf.data.Dataset 활용 복습 : https://www.kaggle.com/ljh415/20200908
+     - ImageGenerator + flow_from_dataframe: https://www.kaggle.com/ljh415/notebook543c6b8ad9
+
 ---
 
 ### 커리큘럼
