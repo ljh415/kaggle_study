@@ -25,6 +25,19 @@
    - Code
      - tf.data.Dataset 활용 복습 : https://www.kaggle.com/ljh415/20200908
      - ImageGenerator + flow_from_dataframe: https://www.kaggle.com/ljh415/notebook543c6b8ad9
+     
+5. 09.16
+   - Competition
+      - [Petals to the Metal: Flower Classification on TPU](https://www.kaggle.com/c/tpu-getting-started)
+   - Code
+      - https://www.kaggle.com/ljh415/using-tpu
+
+6. 09.23
+   - Competition
+      - [Google Landmkar Recognition 2020](https://www.kaggle.com/c/landmark-recognition-2020)
+   - Code
+      - Baseline : https://www.kaggle.com/ljh415/baseline
+      - EDA : 추가예정
 
 ---
 
