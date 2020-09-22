@@ -36,7 +36,7 @@
    - Competition
       - [Google Landmkar Recognition 2020](https://www.kaggle.com/c/landmark-recognition-2020)
    - Code
-      - Baseline : https://www.kaggle.com/ljh415/baseline
+      - Baseline : https://www.kaggle.com/ljh415/baseline => 
       - EDA : 추가예정
 
 ---
